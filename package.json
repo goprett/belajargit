@@ -1,0 +1,19 @@
+{
+  "name": "belajargit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goprett/belajargit.git"
+  },
+  "author": "hifny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goprett/belajargit/issues"
+  },
+  "homepage": "https://github.com/goprett/belajargit#readme"
+}
